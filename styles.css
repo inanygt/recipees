@@ -1,0 +1,9 @@
+.recipes-grid {
+   display: grid;
+   gap: 1rem;
+}
+
+.recipe-card {
+   background-color: yellow;
+   padding: 0.2rem 1rem;
+}
