@@ -1,4 +1,5 @@
 <?php include 'header.php' ?>
+<?php include 'navigation.php' ?>
 
 <div class="recipes-grid">
    <div class="recipe-card">
